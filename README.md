@@ -1,4 +1,5 @@
 # Curso de Simulación Estocástica
+![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-Simulacion)
 
 Este repositorio contiene el material del curso **MAT-468: Simulación Estocástica** (Universidad Técnica Federico Santa María).
 
